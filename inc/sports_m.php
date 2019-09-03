@@ -21,6 +21,8 @@ for ($a=0;$a<count($sports); $a++) {
  
 ?>
 
+<li><a href="https://github.com/dw4ss/Batmanstream" class="logo">Clone Website</a></li>
+
  
                                                                                     
           
