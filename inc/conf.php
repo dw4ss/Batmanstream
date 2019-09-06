@@ -31,7 +31,7 @@
     $dateSeparatorColor = "333333";
     $dateSeparatorBackground = "EBEBEB";
 
-    $styles = "gf=$fontFamily&fs=$fontSize&tt=$textTransform&fc=$fontColor&tc=$textColor&bc=$background&bhc=$backgroundHover&pd=$padding&br=$border&brc=$borderColor&brr=$borderRadius&mr=$margin&tm=$timeColor&tmb=$timeBackground&wb=$widgetBackground&bcc=$bodyBackgroundColor&bsh=$boxShadow&rdb=$dateSeparatorColor&rdc=$dateSeparatorBackground";
+    $styles = "gf=$fontFamily&fs=$fontSize&tt=$textTransform&fc=$fontColor&tc=$textColor&bc=$backgroundColor&bhc=$backgroundHover&pd=$padding&br=$border&brc=$borderColor&brr=$borderRadius&mr=$margin&tm=$timeColor&tmb=$timeBackground&wb=$widgetBackground&bcc=$bodyBackgroundColor&bsh=$boxShadow&rdb=$dateSeparatorColor&rdc=$dateSeparatorBackground";
 
  
  
