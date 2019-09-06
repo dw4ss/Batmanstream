@@ -3,7 +3,7 @@
     <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-  <div class="pull-right"><em><a href="https://www.batman-stream.tv"><?php echo $powered; ?></a> <?php echo date('Y'); ?></em></div> 
+  <div class="pull-right"><em><a href="https://www.batmanstreamtv.com"><?php echo $powered; ?></a> <?php echo date('Y'); ?></em></div> 
                 </div>
  
             </div>
