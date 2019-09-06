@@ -43,7 +43,7 @@
 
  
 
-<img src="../images/fifa18.jpg" class="full zoom" alt="" />
+<img src="https://main.cdn-img.com/portal/landing_portal/cb/f079/img/bg-main.jpg" class="full zoom" alt="" />
  
 
 
