@@ -4,7 +4,7 @@ Demo website running Batmanstream widget
 
 **Getting Started** 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Download the Deployed version to deploy the project on a live server.
+These instructions will get you a copy of the Batmanstream project up and running on your local machine for development and testing purposes or to deploy the project on a live server.
 
 **Prerequisites** 
 
@@ -17,6 +17,7 @@ Download the project in your local machine xampp > htdocs directory
 **Installing on server**  
 
 Upload the project via FTP in your public directory
+
  
 **Authors** 
 
@@ -34,7 +35,7 @@ Feel free to use this code and modify as your needs
 
 https://batstream.tv (Demo version)  
 
-https://www.batmanstreamtv.com (Original Batmanstream)  
+https://www.batman-stream.tv (Original Batmanstream)  
 
 **Batmanstream Widget**    
 
@@ -42,7 +43,7 @@ https://live.batstream.tv
 
 **Batmanstream Widget configurations**    
 
-https://www.batmanstreamtv.com/for-webmasters
+https://www.batman-stream.tv/for-webmasters
 
 
 
