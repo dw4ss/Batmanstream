@@ -33,17 +33,17 @@ Feel free to use this code and modify as your needs
 
 **Demo Website (Deployed version)**  
 
-https://batstream.tv (Demo version)  
+https://batstream.live (Demo version)  
 
-https://www.batman-stream.tv (Original Batmanstream)  
+https://www.batman-stream.com (Original Batmanstream)  
 
 **Batmanstream Widget**    
 
-https://live.batstream.tv
+https://live.batstream.live
 
 **Batmanstream Widget configurations**    
 
-https://www.batman-stream.tv/for-webmasters
+https://www.batman-stream.com/for-webmasters
 
 
 
