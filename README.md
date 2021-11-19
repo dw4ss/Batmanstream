@@ -35,7 +35,7 @@ Feel free to use this code and modify as your needs
 
 https://batstream.live (Demo version)  
 
-https://www.batman-stream.com (Original Batmanstream)  
+https://www.batmanstream.org (Original Batmanstream)  
 
 **Batmanstream Widget**    
 
@@ -43,7 +43,7 @@ https://live.batstream.live
 
 **Batmanstream Widget configurations**    
 
-https://www.batman-stream.com/for-webmasters
+https://www.batmanstream.org/for-webmasters
 
 
 
